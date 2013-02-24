@@ -1,0 +1,15 @@
+{
+	"name": "exemplar",
+	"version": "0.1.0",
+	"description": "Documentation helper for JavaScript libraries.",
+	"author": "Jason Stehle",
+	"license": "MIT",
+	"engines": {
+		"node": "0.8.x"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/codistic/exemplar.git"
+	},
+	"readmeFilename": "README.md"
+}
