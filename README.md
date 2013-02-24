@@ -29,6 +29,7 @@ Exemplar requires [jQuery](http://jquery.com/) and [SyntaxHighlighter](http://al
 
 ## License
 Exemplar is distributed under the MIT license as tweetware. If you like it, please tweet about it.
+
 SyntaxHighlighter is distributed under the MIT license as donationware. If you like it, please [donate](http://alexgorbatchev.com/SyntaxHighlighter/donate.html).
 
 ## Contributors
