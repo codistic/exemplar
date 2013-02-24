@@ -1,4 +1,4 @@
-//     Exemplar.js 0.1.0
+//     Exemplar.js 0.1.1
 //     (c) 2013 Jason Stehle, http://www.codistic.com/projects/exemplar/
 //     Exemplar.js may be freely distributed under the MIT license.
 
